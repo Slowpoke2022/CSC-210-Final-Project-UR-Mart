@@ -1,6 +1,6 @@
 # CSC-210-Final-Project-UR-Mart
 
-1. Our Plan:
+1. Our Plan: <br>
 We plan to build an online shopping application called UrMart, similar to Amazon or
 eBay. Our target audience are independent online merchants who sell products
 alongside customers who seek products unavailable on more popular sites.
@@ -14,7 +14,7 @@ Our application will include these features listed below: <br>
 More features or functionalities might be added as we work on this project - all of which
 will be properly documented/reported.
 
-2. Our Team:
+2. Our Team: <br>
 Duy Pham handled general front-end, database, & CRUD.  <br>
 Thanh Pham handled user User Authentication. <br>
 Hung Tran handled buyers' item cart. <br>
