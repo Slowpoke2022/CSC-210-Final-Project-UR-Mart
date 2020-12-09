@@ -15,9 +15,9 @@ More features or functionalities might be added as we work on this project - all
 will be properly documented/reported.
 
 2. Our Team:
-Duy Pham handled general front-end, database, & CRUD.
-Thanh Pham handled user User Authentication.
-Hung Tran handled buyers' item cart.
+Duy Pham handled general front-end, database, & CRUD.  <br>
+Thanh Pham handled user User Authentication. <br>
+Hung Tran handled buyers' item cart. <br>
 
 
 
